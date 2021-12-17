@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+    color:brown;
+}
+
+.arany{
+    color: crimson;
+    background-color: gold;
+}
+
+.piros{
+    color: gold;
+    background-color: crimson;
+}
+
+#diszlista{
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+
+#diszeredmeny{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#disztabla{
+    margin: 5px auto 5px auto;
+    width: 460px
+
+}
+
+tr{
+    border-bottom: cornflowerblue solid 2px;
+}
+
+th{
+    background-color:aliceblue;
+    border-bottom: cornflowerblue solid 3px;
+    border: cornflowerblue solid 1px;
+}
+
+td{
+    border: cornflowerblue solid 1px;
+}
